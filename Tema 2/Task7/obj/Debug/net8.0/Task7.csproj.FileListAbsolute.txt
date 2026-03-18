@@ -1,0 +1,14 @@
+C:\Users\MSI\Documents\Tema 2\Task7\bin\Debug\net8.0\Task7.exe
+C:\Users\MSI\Documents\Tema 2\Task7\bin\Debug\net8.0\Task7.deps.json
+C:\Users\MSI\Documents\Tema 2\Task7\bin\Debug\net8.0\Task7.runtimeconfig.json
+C:\Users\MSI\Documents\Tema 2\Task7\bin\Debug\net8.0\Task7.dll
+C:\Users\MSI\Documents\Tema 2\Task7\bin\Debug\net8.0\Task7.pdb
+C:\Users\MSI\Documents\Tema 2\Task7\obj\Debug\net8.0\Task7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\Tema 2\Task7\obj\Debug\net8.0\Task7.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\Tema 2\Task7\obj\Debug\net8.0\Task7.AssemblyInfo.cs
+C:\Users\MSI\Documents\Tema 2\Task7\obj\Debug\net8.0\Task7.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Tema 2\Task7\obj\Debug\net8.0\Task7.dll
+C:\Users\MSI\Documents\Tema 2\Task7\obj\Debug\net8.0\refint\Task7.dll
+C:\Users\MSI\Documents\Tema 2\Task7\obj\Debug\net8.0\Task7.pdb
+C:\Users\MSI\Documents\Tema 2\Task7\obj\Debug\net8.0\Task7.genruntimeconfig.cache
+C:\Users\MSI\Documents\Tema 2\Task7\obj\Debug\net8.0\ref\Task7.dll
