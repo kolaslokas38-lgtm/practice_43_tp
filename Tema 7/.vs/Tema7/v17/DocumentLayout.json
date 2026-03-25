@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Documents\\Tema7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28327A-6E8B-48F8-A083-9211638A35AE}|Task1\\Task1.csproj|c:\\users\\msi\\documents\\tema7\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D28327A-6E8B-48F8-A083-9211638A35AE}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28327A-6E8B-48F8-A083-9211638A35AE}|Task1\\Task1.csproj|c:\\users\\msi\\documents\\tema7\\task1\\invalidgradeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D28327A-6E8B-48F8-A083-9211638A35AE}|Task1\\Task1.csproj|solutionrelative:task1\\invalidgradeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D28327A-6E8B-48F8-A083-9211638A35AE}|Task1\\Task1.csproj|c:\\users\\msi\\documents\\tema7\\task1\\studentgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D28327A-6E8B-48F8-A083-9211638A35AE}|Task1\\Task1.csproj|solutionrelative:task1\\studentgrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33C7909-10E0-414B-BA31-1C3CA97CA863}|Task2\\Task2.csproj|c:\\users\\msi\\documents\\tema7\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33C7909-10E0-414B-BA31-1C3CA97CA863}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0DF52E-59E0-4809-9B7B-F709FB23C02E}|Task3\\Task3.csproj|c:\\users\\msi\\documents\\tema7\\task3\\toomanyconnectionsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0DF52E-59E0-4809-9B7B-F709FB23C02E}|Task3\\Task3.csproj|solutionrelative:task3\\toomanyconnectionsexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0DF52E-59E0-4809-9B7B-F709FB23C02E}|Task3\\Task3.csproj|c:\\users\\msi\\documents\\tema7\\task3\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0DF52E-59E0-4809-9B7B-F709FB23C02E}|Task3\\Task3.csproj|solutionrelative:task3\\serverconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C0DF52E-59E0-4809-9B7B-F709FB23C02E}|Task3\\Task3.csproj|c:\\users\\msi\\documents\\tema7\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C0DF52E-59E0-4809-9B7B-F709FB23C02E}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33C7909-10E0-414B-BA31-1C3CA97CA863}|Task2\\Task2.csproj|c:\\users\\msi\\documents\\tema7\\task2\\serializationoperationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33C7909-10E0-414B-BA31-1C3CA97CA863}|Task2\\Task2.csproj|solutionrelative:task2\\serializationoperationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33C7909-10E0-414B-BA31-1C3CA97CA863}|Task2\\Task2.csproj|c:\\users\\msi\\documents\\tema7\\task2\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33C7909-10E0-414B-BA31-1C3CA97CA863}|Task2\\Task2.csproj|solutionrelative:task2\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33C7909-10E0-414B-BA31-1C3CA97CA863}|Task2\\Task2.csproj|c:\\users\\msi\\documents\\tema7\\task2\\dataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33C7909-10E0-414B-BA31-1C3CA97CA863}|Task2\\Task2.csproj|solutionrelative:task2\\dataserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TooManyConnectionsException.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema7\\Task3\\TooManyConnectionsException.cs",
+              "RelativeDocumentMoniker": "Task3\\TooManyConnectionsException.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema7\\Task3\\TooManyConnectionsException.cs",
+              "RelativeToolTip": "Task3\\TooManyConnectionsException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:16:20.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerConnection.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema7\\Task3\\ServerConnection.cs",
+              "RelativeDocumentMoniker": "Task3\\ServerConnection.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema7\\Task3\\ServerConnection.cs",
+              "RelativeToolTip": "Task3\\ServerConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:16:09.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema7\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema7\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:15:20.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentGrade.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema7\\Task1\\StudentGrade.cs",
+              "RelativeDocumentMoniker": "Task1\\StudentGrade.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema7\\Task1\\StudentGrade.cs",
+              "RelativeToolTip": "Task1\\StudentGrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:12:19.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SerializationOperationException.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema7\\Task2\\SerializationOperationException.cs",
+              "RelativeDocumentMoniker": "Task2\\SerializationOperationException.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema7\\Task2\\SerializationOperationException.cs",
+              "RelativeToolTip": "Task2\\SerializationOperationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:14:03.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema7\\Task2\\Serializer.cs",
+              "RelativeDocumentMoniker": "Task2\\Serializer.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema7\\Task2\\Serializer.cs",
+              "RelativeToolTip": "Task2\\Serializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:13:56.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataSerializer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema7\\Task2\\DataSerializer.cs",
+              "RelativeDocumentMoniker": "Task2\\DataSerializer.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema7\\Task2\\DataSerializer.cs",
+              "RelativeToolTip": "Task2\\DataSerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:13:48.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema7\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema7\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:12:48.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidGradeException.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema7\\Task1\\InvalidGradeException.cs",
+              "RelativeDocumentMoniker": "Task1\\InvalidGradeException.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema7\\Task1\\InvalidGradeException.cs",
+              "RelativeToolTip": "Task1\\InvalidGradeException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:12:04.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema7\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema7\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:09:30.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
