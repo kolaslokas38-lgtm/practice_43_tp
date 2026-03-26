@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Documents\\Tema 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B6B462-DADC-4242-9D51-5EB8F36AB932}|Task1\\Task1.csproj|c:\\users\\msi\\documents\\tema 8\\task1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B6B462-DADC-4242-9D51-5EB8F36AB932}|Task1\\Task1.csproj|solutionrelative:task1\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B6B462-DADC-4242-9D51-5EB8F36AB932}|Task1\\Task1.csproj|c:\\users\\msi\\documents\\tema 8\\task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B6B462-DADC-4242-9D51-5EB8F36AB932}|Task1\\Task1.csproj|solutionrelative:task1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29AEF79-4896-44B8-9B71-6DA004F4FEC6}|Task3\\Task3.csproj|c:\\users\\msi\\documents\\tema 8\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29AEF79-4896-44B8-9B71-6DA004F4FEC6}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29AEF79-4896-44B8-9B71-6DA004F4FEC6}|Task3\\Task3.csproj|c:\\users\\msi\\documents\\tema 8\\task3\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29AEF79-4896-44B8-9B71-6DA004F4FEC6}|Task3\\Task3.csproj|solutionrelative:task3\\reportmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29AEF79-4896-44B8-9B71-6DA004F4FEC6}|Task3\\Task3.csproj|c:\\users\\msi\\documents\\tema 8\\task3\\textreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29AEF79-4896-44B8-9B71-6DA004F4FEC6}|Task3\\Task3.csproj|solutionrelative:task3\\textreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A29AEF79-4896-44B8-9B71-6DA004F4FEC6}|Task3\\Task3.csproj|c:\\users\\msi\\documents\\tema 8\\task3\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A29AEF79-4896-44B8-9B71-6DA004F4FEC6}|Task3\\Task3.csproj|solutionrelative:task3\\ireport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3711A4-2C60-4045-A9F4-D8D2F5130D9E}|Task2\\Task2.csproj|c:\\users\\msi\\documents\\tema 8\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3711A4-2C60-4045-A9F4-D8D2F5130D9E}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3711A4-2C60-4045-A9F4-D8D2F5130D9E}|Task2\\Task2.csproj|c:\\users\\msi\\documents\\tema 8\\task2\\circularbuffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3711A4-2C60-4045-A9F4-D8D2F5130D9E}|Task2\\Task2.csproj|solutionrelative:task2\\circularbuffermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E3711A4-2C60-4045-A9F4-D8D2F5130D9E}|Task2\\Task2.csproj|c:\\users\\msi\\documents\\tema 8\\task2\\mycircularbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E3711A4-2C60-4045-A9F4-D8D2F5130D9E}|Task2\\Task2.csproj|solutionrelative:task2\\mycircularbuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9B6B462-DADC-4242-9D51-5EB8F36AB932}|Task1\\Task1.csproj|c:\\users\\msi\\documents\\tema 8\\task1\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9B6B462-DADC-4242-9D51-5EB8F36AB932}|Task1\\Task1.csproj|solutionrelative:task1\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReport.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 8\\Task3\\IReport.cs",
+              "RelativeDocumentMoniker": "Task3\\IReport.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 8\\Task3\\IReport.cs",
+              "RelativeToolTip": "Task3\\IReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:52:13.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 8\\Task3\\ReportManager.cs",
+              "RelativeDocumentMoniker": "Task3\\ReportManager.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 8\\Task3\\ReportManager.cs",
+              "RelativeToolTip": "Task3\\ReportManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:52:03.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextReport.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 8\\Task3\\TextReport.cs",
+              "RelativeDocumentMoniker": "Task3\\TextReport.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 8\\Task3\\TextReport.cs",
+              "RelativeToolTip": "Task3\\TextReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:51:57.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 8\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 8\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:51:13.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CircularBufferManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 8\\Task2\\CircularBufferManager.cs",
+              "RelativeDocumentMoniker": "Task2\\CircularBufferManager.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 8\\Task2\\CircularBufferManager.cs",
+              "RelativeToolTip": "Task2\\CircularBufferManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAqwEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:47:53.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MyCircularBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 8\\Task2\\MyCircularBuffer.cs",
+              "RelativeDocumentMoniker": "Task2\\MyCircularBuffer.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 8\\Task2\\MyCircularBuffer.cs",
+              "RelativeToolTip": "Task2\\MyCircularBuffer.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:46:38.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 8\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 8\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:46:01.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 8\\Task1\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Task1\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 8\\Task1\\ShoppingCart.cs",
+              "RelativeToolTip": "Task1\\ShoppingCart.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwDIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:39:48.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 8\\Task1\\Product.cs",
+              "RelativeDocumentMoniker": "Task1\\Product.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 8\\Task1\\Product.cs",
+              "RelativeToolTip": "Task1\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T08:39:34.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 8\\Task1\\Program.cs",
+              "RelativeDocumentMoniker": "Task1\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 8\\Task1\\Program.cs",
+              "RelativeToolTip": "Task1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T07:41:42.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
