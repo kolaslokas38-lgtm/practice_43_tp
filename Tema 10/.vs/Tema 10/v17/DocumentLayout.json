@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Documents\\Tema 10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36E67FE7-EC5B-4215-AA07-4086D371A668}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 10\\task 1\\discountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E67FE7-EC5B-4215-AA07-4086D371A668}|Task 1\\Task 1.csproj|solutionrelative:task 1\\discountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36E67FE7-EC5B-4215-AA07-4086D371A668}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 10\\task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36E67FE7-EC5B-4215-AA07-4086D371A668}|Task 1\\Task 1.csproj|solutionrelative:task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E583D-24CB-4BBC-BEDA-31FA3D956117}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 10\\task 2\\igraphbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E583D-24CB-4BBC-BEDA-31FA3D956117}|Task 2\\Task 2.csproj|solutionrelative:task 2\\igraphbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E583D-24CB-4BBC-BEDA-31FA3D956117}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 10\\task 2\\linegraphbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E583D-24CB-4BBC-BEDA-31FA3D956117}|Task 2\\Task 2.csproj|solutionrelative:task 2\\linegraphbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E583D-24CB-4BBC-BEDA-31FA3D956117}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 10\\task 2\\piechartbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E583D-24CB-4BBC-BEDA-31FA3D956117}|Task 2\\Task 2.csproj|solutionrelative:task 2\\piechartbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6B27F0-38DC-4578-918C-445D45BED24D}|Task 3\\Task 3.csproj|c:\\users\\msi\\documents\\tema 10\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6B27F0-38DC-4578-918C-445D45BED24D}|Task 3\\Task 3.csproj|solutionrelative:task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E583D-24CB-4BBC-BEDA-31FA3D956117}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 10\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E583D-24CB-4BBC-BEDA-31FA3D956117}|Task 2\\Task 2.csproj|solutionrelative:task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E583D-24CB-4BBC-BEDA-31FA3D956117}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 10\\task 2\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E583D-24CB-4BBC-BEDA-31FA3D956117}|Task 2\\Task 2.csproj|solutionrelative:task 2\\graph.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{666E583D-24CB-4BBC-BEDA-31FA3D956117}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 10\\task 2\\bargraphbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{666E583D-24CB-4BBC-BEDA-31FA3D956117}|Task 2\\Task 2.csproj|solutionrelative:task 2\\bargraphbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6B27F0-38DC-4578-918C-445D45BED24D}|Task 3\\Task 3.csproj|c:\\users\\msi\\documents\\tema 10\\task 3\\regularcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6B27F0-38DC-4578-918C-445D45BED24D}|Task 3\\Task 3.csproj|solutionrelative:task 3\\regularcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6B27F0-38DC-4578-918C-445D45BED24D}|Task 3\\Task 3.csproj|c:\\users\\msi\\documents\\tema 10\\task 3\\loyalcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6B27F0-38DC-4578-918C-445D45BED24D}|Task 3\\Task 3.csproj|solutionrelative:task 3\\loyalcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6B27F0-38DC-4578-918C-445D45BED24D}|Task 3\\Task 3.csproj|c:\\users\\msi\\documents\\tema 10\\task 3\\promotionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6B27F0-38DC-4578-918C-445D45BED24D}|Task 3\\Task 3.csproj|solutionrelative:task 3\\promotionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE6B27F0-38DC-4578-918C-445D45BED24D}|Task 3\\Task 3.csproj|c:\\users\\msi\\documents\\tema 10\\task 3\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE6B27F0-38DC-4578-918C-445D45BED24D}|Task 3\\Task 3.csproj|solutionrelative:task 3\\icustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegularCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 3\\RegularCustomer.cs",
+              "RelativeDocumentMoniker": "Task 3\\RegularCustomer.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 3\\RegularCustomer.cs",
+              "RelativeToolTip": "Task 3\\RegularCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:21:45.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoyalCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 3\\LoyalCustomer.cs",
+              "RelativeDocumentMoniker": "Task 3\\LoyalCustomer.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 3\\LoyalCustomer.cs",
+              "RelativeToolTip": "Task 3\\LoyalCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:21:39.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 3\\Program.cs",
+              "RelativeDocumentMoniker": "Task 3\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 3\\Program.cs",
+              "RelativeToolTip": "Task 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:21:25.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PieChartBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 2\\PieChartBuilder.cs",
+              "RelativeDocumentMoniker": "Task 2\\PieChartBuilder.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 2\\PieChartBuilder.cs",
+              "RelativeToolTip": "Task 2\\PieChartBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:19:53.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BarGraphBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 2\\BarGraphBuilder.cs",
+              "RelativeDocumentMoniker": "Task 2\\BarGraphBuilder.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 2\\BarGraphBuilder.cs",
+              "RelativeToolTip": "Task 2\\BarGraphBuilder.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:19:45.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LineGraphBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 2\\LineGraphBuilder.cs",
+              "RelativeDocumentMoniker": "Task 2\\LineGraphBuilder.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 2\\LineGraphBuilder.cs",
+              "RelativeToolTip": "Task 2\\LineGraphBuilder.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:19:39.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IGraphBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 2\\IGraphBuilder.cs",
+              "RelativeDocumentMoniker": "Task 2\\IGraphBuilder.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 2\\IGraphBuilder.cs",
+              "RelativeToolTip": "Task 2\\IGraphBuilder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:19:30.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Graph.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 2\\Graph.cs",
+              "RelativeDocumentMoniker": "Task 2\\Graph.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 2\\Graph.cs",
+              "RelativeToolTip": "Task 2\\Graph.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:19:20.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "Task 2\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 2\\Program.cs",
+              "RelativeToolTip": "Task 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:18:30.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 1\\Program.cs",
+              "RelativeDocumentMoniker": "Task 1\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 1\\Program.cs",
+              "RelativeToolTip": "Task 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:17:15.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscountManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 1\\DiscountManager.cs",
+              "RelativeDocumentMoniker": "Task 1\\DiscountManager.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 1\\DiscountManager.cs",
+              "RelativeToolTip": "Task 1\\DiscountManager.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA5wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:18:09.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PromotionManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 3\\PromotionManager.cs",
+              "RelativeDocumentMoniker": "Task 3\\PromotionManager.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 3\\PromotionManager.cs",
+              "RelativeToolTip": "Task 3\\PromotionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:21:34.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICustomer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 3\\ICustomer.cs",
+              "RelativeDocumentMoniker": "Task 3\\ICustomer.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 10\\Task 3\\ICustomer.cs",
+              "RelativeToolTip": "Task 3\\ICustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:21:28.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
