@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Documents\\Tema 12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31645325-258E-453F-82B5-19284872E694}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 12\\task 1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31645325-258E-453F-82B5-19284872E694}|Task 1\\Task 1.csproj|solutionrelative:task 1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31645325-258E-453F-82B5-19284872E694}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 12\\task 1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31645325-258E-453F-82B5-19284872E694}|Task 1\\Task 1.csproj|solutionrelative:task 1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31645325-258E-453F-82B5-19284872E694}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 12\\task 1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31645325-258E-453F-82B5-19284872E694}|Task 1\\Task 1.csproj|solutionrelative:task 1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31645325-258E-453F-82B5-19284872E694}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 12\\task 1\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31645325-258E-453F-82B5-19284872E694}|Task 1\\Task 1.csproj|solutionrelative:task 1\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31645325-258E-453F-82B5-19284872E694}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 12\\task 1\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{31645325-258E-453F-82B5-19284872E694}|Task 1\\Task 1.csproj|solutionrelative:task 1\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31645325-258E-453F-82B5-19284872E694}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 12\\task 1\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31645325-258E-453F-82B5-19284872E694}|Task 1\\Task 1.csproj|solutionrelative:task 1\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 12\\Task 1\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Task 1\\Window1.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 12\\Task 1\\Window1.xaml.cs",
+              "RelativeToolTip": "Task 1\\Window1.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:31:11.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 12\\Task 1\\Window1.xaml",
+              "RelativeDocumentMoniker": "Task 1\\Window1.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 12\\Task 1\\Window1.xaml",
+              "RelativeToolTip": "Task 1\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-31T19:28:16.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 12\\Task 1\\Subject.cs",
+              "RelativeDocumentMoniker": "Task 1\\Subject.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 12\\Task 1\\Subject.cs",
+              "RelativeToolTip": "Task 1\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:26:54.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 12\\Task 1\\Student.cs",
+              "RelativeDocumentMoniker": "Task 1\\Student.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 12\\Task 1\\Student.cs",
+              "RelativeToolTip": "Task 1\\Student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T19:26:50.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 12\\Task 1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task 1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 12\\Task 1\\MainWindow.xaml",
+              "RelativeToolTip": "Task 1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-30T09:26:44.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 12\\Task 1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task 1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 12\\Task 1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task 1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T09:26:42.376Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

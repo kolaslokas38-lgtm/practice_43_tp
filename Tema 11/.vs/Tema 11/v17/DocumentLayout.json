@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Documents\\Tema 11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 11\\task 1\\electronicdevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|solutionrelative:task 1\\electronicdevicefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 11\\task 1\\ielectronicdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|solutionrelative:task 1\\ielectronicdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 11\\task 1\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|solutionrelative:task 1\\laptop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 11\\task 1\\laptopfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|solutionrelative:task 1\\laptopfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 11\\task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|solutionrelative:task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 11\\task 1\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|solutionrelative:task 1\\smartphone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 11\\task 1\\smartphonefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|solutionrelative:task 1\\smartphonefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 11\\task 1\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|solutionrelative:task 1\\tablet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 11\\task 1\\tabletfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C26CDF-163B-4A16-969B-E64303F38AF4}|Task 1\\Task 1.csproj|solutionrelative:task 1\\tabletfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 11\\task 2\\documentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|solutionrelative:task 2\\documentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 11\\task 2\\footerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|solutionrelative:task 2\\footerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 11\\task 2\\headerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|solutionrelative:task 2\\headerdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 11\\task 2\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|solutionrelative:task 2\\idocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 11\\task 2\\pagenumberdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|solutionrelative:task 2\\pagenumberdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 11\\task 2\\plaindocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|solutionrelative:task 2\\plaindocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|c:\\users\\msi\\documents\\tema 11\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFFCAB89-2A65-48FE-A099-3A2A6FD2E928}|Task 2\\Task 2.csproj|solutionrelative:task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F68F62A-67CF-498E-9CD9-E222CBDBA577}|Task 3\\Task 3.csproj|c:\\users\\msi\\documents\\tema 11\\task 3\\movefilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F68F62A-67CF-498E-9CD9-E222CBDBA577}|Task 3\\Task 3.csproj|solutionrelative:task 3\\movefilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F68F62A-67CF-498E-9CD9-E222CBDBA577}|Task 3\\Task 3.csproj|c:\\users\\msi\\documents\\tema 11\\task 3\\copyfilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F68F62A-67CF-498E-9CD9-E222CBDBA577}|Task 3\\Task 3.csproj|solutionrelative:task 3\\copyfilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F68F62A-67CF-498E-9CD9-E222CBDBA577}|Task 3\\Task 3.csproj|c:\\users\\msi\\documents\\tema 11\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F68F62A-67CF-498E-9CD9-E222CBDBA577}|Task 3\\Task 3.csproj|solutionrelative:task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F68F62A-67CF-498E-9CD9-E222CBDBA577}|Task 3\\Task 3.csproj|c:\\users\\msi\\documents\\tema 11\\task 3\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F68F62A-67CF-498E-9CD9-E222CBDBA577}|Task 3\\Task 3.csproj|solutionrelative:task 3\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F68F62A-67CF-498E-9CD9-E222CBDBA577}|Task 3\\Task 3.csproj|c:\\users\\msi\\documents\\tema 11\\task 3\\fileoperationinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F68F62A-67CF-498E-9CD9-E222CBDBA577}|Task 3\\Task 3.csproj|solutionrelative:task 3\\fileoperationinvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F68F62A-67CF-498E-9CD9-E222CBDBA577}|Task 3\\Task 3.csproj|c:\\users\\msi\\documents\\tema 11\\task 3\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F68F62A-67CF-498E-9CD9-E222CBDBA577}|Task 3\\Task 3.csproj|solutionrelative:task 3\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FooterDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\FooterDecorator.cs",
+              "RelativeDocumentMoniker": "Task 2\\FooterDecorator.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\FooterDecorator.cs",
+              "RelativeToolTip": "Task 2\\FooterDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:32:20.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DocumentDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\DocumentDecorator.cs",
+              "RelativeDocumentMoniker": "Task 2\\DocumentDecorator.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\DocumentDecorator.cs",
+              "RelativeToolTip": "Task 2\\DocumentDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:37:11.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TabletFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\TabletFactory.cs",
+              "RelativeDocumentMoniker": "Task 1\\TabletFactory.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\TabletFactory.cs",
+              "RelativeToolTip": "Task 1\\TabletFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:44:59.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tablet.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\Tablet.cs",
+              "RelativeDocumentMoniker": "Task 1\\Tablet.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\Tablet.cs",
+              "RelativeToolTip": "Task 1\\Tablet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:44:10.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SmartPhoneFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\SmartPhoneFactory.cs",
+              "RelativeDocumentMoniker": "Task 1\\SmartPhoneFactory.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\SmartPhoneFactory.cs",
+              "RelativeToolTip": "Task 1\\SmartPhoneFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:45:07.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Smartphone.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\Smartphone.cs",
+              "RelativeDocumentMoniker": "Task 1\\Smartphone.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\Smartphone.cs",
+              "RelativeToolTip": "Task 1\\Smartphone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:44:22.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\Program.cs",
+              "RelativeDocumentMoniker": "Task 1\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\Program.cs",
+              "RelativeToolTip": "Task 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:40:29.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LaptopFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\LaptopFactory.cs",
+              "RelativeDocumentMoniker": "Task 1\\LaptopFactory.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\LaptopFactory.cs",
+              "RelativeToolTip": "Task 1\\LaptopFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:44:41.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Laptop.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\Laptop.cs",
+              "RelativeDocumentMoniker": "Task 1\\Laptop.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\Laptop.cs",
+              "RelativeToolTip": "Task 1\\Laptop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:44:03.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IElectronicDevice.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\IElectronicDevice.cs",
+              "RelativeDocumentMoniker": "Task 1\\IElectronicDevice.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\IElectronicDevice.cs",
+              "RelativeToolTip": "Task 1\\IElectronicDevice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:43:27.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElectronicDeviceFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\ElectronicDeviceFactory.cs",
+              "RelativeDocumentMoniker": "Task 1\\ElectronicDeviceFactory.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 1\\ElectronicDeviceFactory.cs",
+              "RelativeToolTip": "Task 1\\ElectronicDeviceFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:43:48.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HeaderDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\HeaderDecorator.cs",
+              "RelativeDocumentMoniker": "Task 2\\HeaderDecorator.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\HeaderDecorator.cs",
+              "RelativeToolTip": "Task 2\\HeaderDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:32:11.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IDocument.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\IDocument.cs",
+              "RelativeDocumentMoniker": "Task 2\\IDocument.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\IDocument.cs",
+              "RelativeToolTip": "Task 2\\IDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:33:28.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PageNumberDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\PageNumberDecorator.cs",
+              "RelativeDocumentMoniker": "Task 2\\PageNumberDecorator.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\PageNumberDecorator.cs",
+              "RelativeToolTip": "Task 2\\PageNumberDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:32:27.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PlainDocument.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\PlainDocument.cs",
+              "RelativeDocumentMoniker": "Task 2\\PlainDocument.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\PlainDocument.cs",
+              "RelativeToolTip": "Task 2\\PlainDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:34:03.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\Program.cs",
+              "RelativeDocumentMoniker": "Task 2\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 2\\Program.cs",
+              "RelativeToolTip": "Task 2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T06:47:43.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MoveFileCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 3\\MoveFileCommand.cs",
+              "RelativeDocumentMoniker": "Task 3\\MoveFileCommand.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 3\\MoveFileCommand.cs",
+              "RelativeToolTip": "Task 3\\MoveFileCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:45:53.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CopyFileCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 3\\CopyFileCommand.cs",
+              "RelativeDocumentMoniker": "Task 3\\CopyFileCommand.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 3\\CopyFileCommand.cs",
+              "RelativeToolTip": "Task 3\\CopyFileCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:45:45.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 3\\Program.cs",
+              "RelativeDocumentMoniker": "Task 3\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 3\\Program.cs",
+              "RelativeToolTip": "Task 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:43:18.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 3\\ICommand.cs",
+              "RelativeDocumentMoniker": "Task 3\\ICommand.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 3\\ICommand.cs",
+              "RelativeToolTip": "Task 3\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T07:44:48.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FileOperationInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 3\\FileOperationInvoker.cs",
+              "RelativeDocumentMoniker": "Task 3\\FileOperationInvoker.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 3\\FileOperationInvoker.cs",
+              "RelativeToolTip": "Task 3\\FileOperationInvoker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:45:56.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 3\\FileManager.cs",
+              "RelativeDocumentMoniker": "Task 3\\FileManager.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 11\\Task 3\\FileManager.cs",
+              "RelativeToolTip": "Task 3\\FileManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T08:45:40.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
