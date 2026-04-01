@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Documents\\Tema 13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 13\\task 1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|solutionrelative:task 1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 13\\task 1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|solutionrelative:task 1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 13\\task 1\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|solutionrelative:task 1\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 13\\task 1\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|solutionrelative:task 1\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 13\\task 1\\editgradewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|solutionrelative:task 1\\editgradewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 13\\task 1\\editgradewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|solutionrelative:task 1\\editgradewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 13\\task 1\\addgradewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|solutionrelative:task 1\\addgradewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 13\\task 1\\addgradewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|solutionrelative:task 1\\addgradewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|c:\\users\\msi\\documents\\tema 13\\task 1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{66F21283-C788-4B80-AE3C-23AA387B5EC6}|Task 1\\Task 1.csproj|solutionrelative:task 1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditGradeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\EditGradeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task 1\\EditGradeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\EditGradeWindow.xaml.cs",
+              "RelativeToolTip": "Task 1\\EditGradeWindow.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:09:55.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EditGradeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\EditGradeWindow.xaml",
+              "RelativeDocumentMoniker": "Task 1\\EditGradeWindow.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\EditGradeWindow.xaml",
+              "RelativeToolTip": "Task 1\\EditGradeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T19:09:50.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddGradeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\AddGradeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task 1\\AddGradeWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\AddGradeWindow.xaml.cs",
+              "RelativeToolTip": "Task 1\\AddGradeWindow.xaml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAIwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T19:09:37.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddGradeWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\AddGradeWindow.xaml",
+              "RelativeDocumentMoniker": "Task 1\\AddGradeWindow.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\AddGradeWindow.xaml",
+              "RelativeToolTip": "Task 1\\AddGradeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T08:26:02.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Task 1\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\RelayCommand.cs",
+              "RelativeToolTip": "Task 1\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T08:25:40.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\Subject.cs",
+              "RelativeDocumentMoniker": "Task 1\\Subject.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\Subject.cs",
+              "RelativeToolTip": "Task 1\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T08:25:35.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\Student.cs",
+              "RelativeDocumentMoniker": "Task 1\\Student.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\Student.cs",
+              "RelativeToolTip": "Task 1\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T08:25:31.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task 1\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\MainWindow.xaml",
+              "RelativeToolTip": "Task 1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T08:04:26.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task 1\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 13\\Task 1\\MainWindow.xaml.cs*",
+              "RelativeToolTip": "Task 1\\MainWindow.xaml.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T08:04:21.75Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
