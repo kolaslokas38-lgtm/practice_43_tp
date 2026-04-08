@@ -1,0 +1,185 @@
+﻿<Window x:Class="Task.Views.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Электронный журнал" Height="700" Width="900"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="200"/>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Электронный журнал" FontSize="20" 
+                   FontWeight="Bold" HorizontalAlignment="Center"
+                   Margin="0,0,0,10"/>
+
+        <ProgressBar Grid.Row="1" Height="10" IsIndeterminate="True"
+                     Visibility="{Binding IsLoading, Converter={StaticResource BooleanToVisibilityConverter}}"
+                     Margin="0,0,0,10"/>
+
+        <TabControl Grid.Row="2" Margin="0,5">
+            <TabItem Header="Журнал оценок">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+
+                    <StackPanel Grid.Column="0" Margin="5">
+                        <TextBlock Text="Студенты" FontWeight="Bold" Margin="0,0,0,5"/>
+                        <ListBox ItemsSource="{Binding Students}" 
+                                 SelectedItem="{Binding SelectedStudent}">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Name}"/>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1" Margin="5">
+                        <TextBlock Text="Курсы" FontWeight="Bold" Margin="0,0,0,5"/>
+                        <ListBox ItemsSource="{Binding Courses}" 
+                                 SelectedItem="{Binding SelectedCourse}">
+                            <ListBox.ItemTemplate>
+                                <DataTemplate>
+                                    <TextBlock Text="{Binding Name}"/>
+                                </DataTemplate>
+                            </ListBox.ItemTemplate>
+                        </ListBox>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="2" Margin="5">
+                        <TextBlock Text="Оценки" FontWeight="Bold" Margin="0,0,0,5"/>
+                        <ListView ItemsSource="{Binding Grades}"
+                                  SelectedItem="{Binding SelectedGrade}"
+                                  MaxHeight="300">
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Header="Оценка" Width="60"
+                                                    DisplayMemberBinding="{Binding Value}"/>
+                                    <GridViewColumn Header="Комментарий" Width="150"
+                                                    DisplayMemberBinding="{Binding Comment}"/>
+                                    <GridViewColumn Header="Дата" Width="120"
+                                                    DisplayMemberBinding="{Binding Date}"/>
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+
+                        <Border BorderBrush="Gray" BorderThickness="1" 
+                                CornerRadius="5" Padding="10" Margin="0,10,0,0"
+                                Visibility="{Binding IsTeacher, Converter={StaticResource BooleanToVisibilityConverter}}">
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+
+                                <TextBlock Text="Добавить/Редактировать оценку" FontWeight="Bold" Margin="0,0,0,10"/>
+
+                                <TextBlock Grid.Row="1" Text="Оценка:" Margin="0,5"/>
+                                <ComboBox Grid.Row="2" SelectedItem="{Binding NewGradeValue}" Width="60"
+                                          HorizontalAlignment="Left" Margin="0,0,0,10">
+                                    <ComboBoxItem Content="5"/>
+                                    <ComboBoxItem Content="4"/>
+                                    <ComboBoxItem Content="3"/>
+                                    <ComboBoxItem Content="2"/>
+                                </ComboBox>
+
+                                <TextBlock Grid.Row="3" Text="Комментарий:" Margin="0,5"/>
+                                <TextBox Grid.Row="4" Text="{Binding NewGradeComment}" 
+                                         Width="200" HorizontalAlignment="Left" Margin="0,0,0,10"/>
+
+                                <StackPanel Grid.Row="5" Orientation="Horizontal" Margin="0,10,0,0">
+                                    <Button Content="Сохранить" Command="{Binding AddGradeCommand}"
+                                            Width="100" Height="30" Margin="0,0,10,0"/>
+                                    <Button Content="Редактировать" Command="{Binding EditGradeCommand}"
+                                            Width="100" Height="30"/>
+                                </StackPanel>
+                            </Grid>
+                        </Border>
+                    </StackPanel>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Уведомления">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <ListView ItemsSource="{Binding Notifications}">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Дата" Width="150"
+                                                DisplayMemberBinding="{Binding Date}"/>
+                                <GridViewColumn Header="От" Width="120"
+                                                DisplayMemberBinding="{Binding FromUser}"/>
+                                <GridViewColumn Header="Тема" Width="150"
+                                                DisplayMemberBinding="{Binding Title}"/>
+                                <GridViewColumn Header="Сообщение" Width="300"
+                                                DisplayMemberBinding="{Binding Message}"/>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+
+                    <Border Grid.Row="1" BorderBrush="Gray" BorderThickness="1" 
+                            CornerRadius="5" Padding="10" Margin="0,10,0,0"
+                            Visibility="{Binding IsTeacher, Converter={StaticResource BooleanToVisibilityConverter}}">
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                                <ColumnDefinition Width="Auto"/>
+                            </Grid.ColumnDefinitions>
+
+                            <TextBlock Text="Новое уведомление:" VerticalAlignment="Center" Margin="0,0,10,0"/>
+                            <TextBox Grid.Column="1" Text="{Binding NewGradeComment}" Margin="0,0,10,0"/>
+                            <Button Grid.Column="2" Content="Отправить" Command="{Binding SendNotificationCommand}"
+                                    Width="100" Height="30"/>
+                        </Grid>
+                    </Border>
+                </Grid>
+            </TabItem>
+
+            <TabItem Header="Чат">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <ListView ItemsSource="{Binding ChatMessages}">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding}" Margin="5" TextWrapping="Wrap"/>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+
+                    <Grid Grid.Row="1" Margin="0,5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="Auto"/>
+                        </Grid.ColumnDefinitions>
+
+                        <TextBox Text="{Binding ChatMessage}" Margin="0,0,5,0"/>
+                        <Button Grid.Column="1" Content="Отправить" Command="{Binding SendChatMessageCommand}"
+                                Width="80" Height="30"/>
+                    </Grid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
