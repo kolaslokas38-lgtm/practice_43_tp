@@ -12,7 +12,6 @@
     </Window.InputBindings>
 
     <DockPanel>
-        <!-- Меню -->
         <Menu DockPanel.Dock="Top">
             <MenuItem Header="_Файл">
                 <MenuItem Header="_Выход" InputGestureText="Alt+F4" Click="Exit_Click"/>
@@ -35,14 +34,12 @@
             </MenuItem>
         </Menu>
 
-        <!-- Панель инструментов -->
         <ToolBar DockPanel.Dock="Top">
             <Button Content="➕ Добавить" Command="{Binding AddGradeCommand}"/>
             <Button Content="✏ Редактировать" Command="{Binding EditGradeCommand}"/>
             <Button Content="🗑 Удалить" Command="{Binding DeleteGradeCommand}"/>
         </ToolBar>
 
-        <!-- Основное содержимое -->
         <Grid Margin="10">
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto"/>

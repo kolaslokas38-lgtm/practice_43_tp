@@ -76,7 +76,7 @@ namespace Task {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Task 1;component/addgradewindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Task 1;V1.0.0.0;component/addgradewindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AddGradeWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
