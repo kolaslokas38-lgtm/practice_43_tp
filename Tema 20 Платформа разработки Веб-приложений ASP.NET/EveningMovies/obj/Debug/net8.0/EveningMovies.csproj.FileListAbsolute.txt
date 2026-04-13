@@ -1,0 +1,101 @@
+f:\Практика КПиЯП\Руслан_19\EveningMovies\bin\Debug\net8.0\appsettings.Development.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\bin\Debug\net8.0\appsettings.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\bin\Debug\net8.0\EveningMovies.staticwebassets.runtime.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\bin\Debug\net8.0\EveningMovies.staticwebassets.endpoints.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\bin\Debug\net8.0\EveningMovies.exe
+f:\Практика КПиЯП\Руслан_19\EveningMovies\bin\Debug\net8.0\EveningMovies.deps.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\bin\Debug\net8.0\EveningMovies.runtimeconfig.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\bin\Debug\net8.0\EveningMovies.dll
+f:\Практика КПиЯП\Руслан_19\EveningMovies\bin\Debug\net8.0\EveningMovies.pdb
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\rpswa.dswa.cache.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\EveningMovies.GeneratedMSBuildEditorConfig.editorconfig
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\EveningMovies.AssemblyInfoInputs.cache
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\EveningMovies.AssemblyInfo.cs
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\EveningMovies.csproj.CoreCompileInputs.cache
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\EveningMovies.MvcApplicationPartsAssemblyInfo.cache
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\EveningMovies.RazorAssemblyInfo.cache
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\EveningMovies.RazorAssemblyInfo.cs
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\rjimswa.dswa.cache.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\scopedcss\bundle\EveningMovies.styles.css
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\scopedcss\projectbundle\EveningMovies.bundle.scp.css
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\staticwebassets.build.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\staticwebassets.build.json.cache
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\staticwebassets.development.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\swae.build.ex.cache
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\EveningMovies.dll
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\refint\EveningMovies.dll
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\EveningMovies.pdb
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\EveningMovies.genruntimeconfig.cache
+f:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\ref\EveningMovies.dll
+F:\Практика КПиЯП\Руслан_19\EveningMovies\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+F:\Практика КПиЯП\Руслан_20\EveningMovies\bin\Debug\net8.0\appsettings.Development.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\bin\Debug\net8.0\appsettings.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.staticwebassets.endpoints.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.staticwebassets.runtime.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.exe
+F:\Практика КПиЯП\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.deps.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.runtimeconfig.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.dll
+F:\Практика КПиЯП\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.pdb
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\rpswa.dswa.cache.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.GeneratedMSBuildEditorConfig.editorconfig
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.AssemblyInfoInputs.cache
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.AssemblyInfo.cs
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.csproj.CoreCompileInputs.cache
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.MvcApplicationPartsAssemblyInfo.cache
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.RazorAssemblyInfo.cache
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.RazorAssemblyInfo.cs
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\rjimswa.dswa.cache.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\scopedcss\bundle\EveningMovies.styles.css
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\scopedcss\projectbundle\EveningMovies.bundle.scp.css
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\staticwebassets.build.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\staticwebassets.build.json.cache
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\staticwebassets.development.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\swae.build.ex.cache
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.dll
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\refint\EveningMovies.dll
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.pdb
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.genruntimeconfig.cache
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\ref\EveningMovies.dll
+F:\Практика КПиЯП\Руслан_20\EveningMovies\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\bin\Debug\net8.0\appsettings.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.staticwebassets.runtime.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.staticwebassets.endpoints.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.exe
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.deps.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.runtimeconfig.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.dll
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\bin\Debug\net8.0\EveningMovies.pdb
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.AssemblyInfo.cs
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.RazorAssemblyInfo.cache
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.RazorAssemblyInfo.cs
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\scopedcss\bundle\EveningMovies.styles.css
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\scopedcss\projectbundle\EveningMovies.bundle.scp.css
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.dll
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\refint\EveningMovies.dll
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.pdb
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\EveningMovies.genruntimeconfig.cache
+C:\Users\MSI\Documents\Руслан_20\EveningMovies\obj\Debug\net8.0\ref\EveningMovies.dll

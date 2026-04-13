@@ -1,0 +1,52 @@
+@model IReadOnlyList<EveningMovies.Models.EveningMovieViewModel>
+@{
+    ViewData["Title"] = "Список фильмов на вечер";
+    var selectedGenre = ViewBag.Genre as string ?? "";
+    var message = ViewBag.Message as string;
+}
+
+<h1 class="mb-3">Список фильмов на вечер</h1>
+
+@if (!string.IsNullOrWhiteSpace(message))
+{
+    <div class="alert alert-success">@message</div>
+}
+
+<form method="get" class="row g-2 col-md-6 mb-3">
+    <div class="col">
+        <input name="genre" value="@selectedGenre" class="form-control" placeholder="Фильтр по жанру" />
+    </div>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-outline-primary">Фильтровать</button>
+    </div>
+</form>
+
+@if (Model.Count == 0)
+{
+    <p class="text-muted">Фильмы не найдены. Добавьте новый фильм.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Фильм</th>
+                <th>Жанр</th>
+                <th>Время начала</th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var movie in Model)
+        {
+            <tr>
+                <td>@movie.MovieTitle</td>
+                <td>@movie.Genre</td>
+                <td>@movie.StartTime.ToString(@"hh\:mm")</td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+<a class="btn btn-primary" asp-action="Create">Добавить фильм</a>
+<a class="btn btn-outline-secondary" asp-controller="Home" asp-action="Index">На главную</a>
