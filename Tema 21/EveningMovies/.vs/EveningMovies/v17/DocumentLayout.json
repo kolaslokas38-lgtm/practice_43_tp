@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Documents\\Tema 21\\EveningMovies\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECA9A1D8-1276-B6EA-3387-E84F2197330C}|EveningMovies.csproj|c:\\users\\msi\\documents\\tema 21\\eveningmovies\\eveningmovies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ECA9A1D8-1276-B6EA-3387-E84F2197330C}|EveningMovies.csproj|solutionrelative:eveningmovies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EveningMovies",
+              "DocumentMoniker": "C:\\Users\\MSI\\Documents\\Tema 21\\EveningMovies\\EveningMovies.csproj",
+              "RelativeDocumentMoniker": "EveningMovies.csproj",
+              "ToolTip": "C:\\Users\\MSI\\Documents\\Tema 21\\EveningMovies\\EveningMovies.csproj",
+              "RelativeToolTip": "EveningMovies.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-14T15:25:19.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
