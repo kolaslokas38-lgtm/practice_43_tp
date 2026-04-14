@@ -1,0 +1,61 @@
+@model IReadOnlyList<EveningMovies.Models.EveningMovie>
+@{
+    ViewData["Title"] = "Список фильмов на вечер";
+    var selectedMoodTag = ViewBag.MoodTag as string ?? "";
+    var message = ViewBag.Message as string;
+}
+
+<h1 class="mb-3">Список фильмов на вечер</h1>
+
+@if (!string.IsNullOrWhiteSpace(message))
+{
+    <div class="alert alert-success">@message</div>
+}
+
+<form method="get" class="row g-2 col-md-6 mb-3">
+    <div class="col">
+        <input name="moodTag" value="@selectedMoodTag" class="form-control" placeholder="Фильтр по тегу настроения" />
+    </div>
+    <div class="col-auto">
+        <button type="submit" class="btn btn-outline-primary">Фильтровать</button>
+    </div>
+</form>
+
+@if (Model.Count == 0)
+{
+    <p class="text-muted">Фильмы не найдены. Добавьте новый фильм.</p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Название</th>
+                <th>Жанр</th>
+                <th>Тег настроения</th>
+                <th>Добавил</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+        @foreach (var movie in Model)
+        {
+            <tr>
+                <td>@movie.Title</td>
+                <td>@movie.Genre</td>
+                <td>@movie.MoodTag</td>
+                <td>@movie.AddedBy</td>
+                <td class="text-end">
+                    <form asp-action="Delete" asp-route-id="@movie.Id" method="post" class="d-inline">
+                        @Html.AntiForgeryToken()
+                        <button type="submit" class="btn btn-sm btn-outline-danger">Удалить</button>
+                    </form>
+                </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
+
+<a class="btn btn-primary" asp-action="Create">Добавить фильм</a>
+<a class="btn btn-outline-secondary" asp-controller="Home" asp-action="Index">На главную</a>
