@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\repositories\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\repositories\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\repositories\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\data\\journalcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\data\\journalcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\viewmodels\\journalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\viewmodels\\journalviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\models\\grade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|f:\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043A\u043F\u0438\u044F\u043F\\\u0440\u0443\u0441\u043B\u0430\u043D_22\\tema 18\\task 1\\migrations\\20260410065231_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F724C67A-5538-4472-8A4A-2D8D6FC77FEB}|Task 1\\Task 1.csproj|solutionrelative:task 1\\migrations\\20260410065231_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20260410065231_InitialCreate.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Migrations\\20260410065231_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Task 1\\Migrations\\20260410065231_InitialCreate.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Migrations\\20260410065231_InitialCreate.cs",
+              "RelativeToolTip": "Task 1\\Migrations\\20260410065231_InitialCreate.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Task 1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Task 1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "Task 1\\Models\\Enrollment.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Models\\Enrollment.cs",
+              "RelativeToolTip": "Task 1\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JournalContextFactory.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Data\\JournalContextFactory.cs",
+              "RelativeDocumentMoniker": "Task 1\\Data\\JournalContextFactory.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Data\\JournalContextFactory.cs",
+              "RelativeToolTip": "Task 1\\Data\\JournalContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Repositories\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Task 1\\Repositories\\EnrollmentRepository.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Repositories\\EnrollmentRepository.cs",
+              "RelativeToolTip": "Task 1\\Repositories\\EnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "Task 1\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "Task 1\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Repositories\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "Task 1\\Repositories\\IEnrollmentRepository.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Repositories\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "Task 1\\Repositories\\IEnrollmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "Task 1\\Repositories\\StudentRepository.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "Task 1\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JournalViewModel.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\ViewModels\\JournalViewModel.cs",
+              "RelativeDocumentMoniker": "Task 1\\ViewModels\\JournalViewModel.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\ViewModels\\JournalViewModel.cs",
+              "RelativeToolTip": "Task 1\\ViewModels\\JournalViewModel.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAUwAoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Task 1\\MainWindow.xaml",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\MainWindow.xaml",
+              "RelativeToolTip": "Task 1\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T09:45:33.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Task 1\\MainWindow.xaml.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Task 1\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\App.xaml",
+              "RelativeDocumentMoniker": "Task 1\\App.xaml",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\App.xaml",
+              "RelativeToolTip": "Task 1\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-14T09:45:33.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Task 1\\App.xaml.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\App.xaml.cs",
+              "RelativeToolTip": "Task 1\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Task 1\\Models\\Student.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Models\\Student.cs",
+              "RelativeToolTip": "Task 1\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Grade.cs",
+              "DocumentMoniker": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Models\\Grade.cs",
+              "RelativeDocumentMoniker": "Task 1\\Models\\Grade.cs",
+              "ToolTip": "F:\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u041A\u041F\u0438\u042F\u041F\\\u0420\u0443\u0441\u043B\u0430\u043D_22\\Tema 18\\Task 1\\Models\\Grade.cs",
+              "RelativeToolTip": "Task 1\\Models\\Grade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-14T09:45:33.572Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
